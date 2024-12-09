@@ -1,2 +1,2 @@
-# MiniJamDemo
+# Horror Prototype
  
